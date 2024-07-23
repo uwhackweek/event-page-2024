@@ -1,0 +1,19 @@
+- title: Brent Wilder
+  avatar: https://avatars.githubusercontent.com/brentwilder
+  role: PhD Student
+  organizations:
+    - name: Boise State University
+  bio: >
+    Brent is a PhD Student at Boise State University with a focus on modeling snow properties from imaging spectroscopy data. 
+    He has worked with data from PRISMA, EMIT, AVIRIS-NG, and ASD FieldSpec4. He is eager to help students at the hackweek who are interested in working 
+    with these types of data.
+  expertise:
+    - Imaging Spectroscopy
+    - Radiative Transfer Modeling
+    - Python
+  social:
+    - icon: github
+      link: https://github.com/brentwilder
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
