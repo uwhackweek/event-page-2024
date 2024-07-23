@@ -1,0 +1,27 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Micah Johnson
+  avatar: https://m3works.io/images/subnaught.jpg
+  role: CoFounder
+  organizations:
+    - name: M3 Works
+    - name: Adventure Data Inc.
+
+  bio: >
+    Micah is a cofounder at M3 Works and Adventure Data Inc. He has spent his professional
+    career advancing realtime snow modeling for water resources with iSnobal. In his spare time,
+    Micah works on a snow penetrometer that aids in characterizing snow properties.
+  expertise:
+    - Software Development
+    - Snowpack Modeling
+    - AWS Cloud
+    - Python
+    - git
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/micahjohnson150
+    - icon: linkedin
+      link: https://www.linkedin.com/in/micah-johnson-13579265/
+  user_groups:
+    - Tutorial Lead
+
