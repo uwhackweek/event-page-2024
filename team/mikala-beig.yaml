@@ -3,13 +3,15 @@
   avatar: https://avatars.githubusercontent.com/USERNAME
   role: Data Support Specialist
   organizations:
-    - name: NSIDC User Services
+    - name: National Snow and Ice Data Center
   pronouns: she/her
   bio: >
-    A FEW SENTENCES ABOUT YOU, MULTIPLE LINES ARE FINE
+    Mikala is a Data Support Specialist at the NSIDC NASA DAAC where she supports users with data discovery and access of NASA Earth observing data.
   expertise:
-    - SKILL 1 Data Access
-    - SKILL 2 ICESat-2 data
+    - SKILL 1 NSIDC DAAC data discovery and access
+    - SKILL 2 ICESat-2 data products
+    - SKILL 3 OpenAltimetry
+    - SKILL 4 earthaccess
   social:
     # Remove list item (- icon & link) if you don't have an account
     - icon: github
