@@ -91,13 +91,6 @@ tabs:
     description: null
     time: 10:30 - 10:45
     label: all
-  - title: 'Tutorial: Machine learning for Snow Studies'
-    description: An introduction to machine learning methods (e.g. Artificial Neural
-      Networks, XGBoost) and applications for snow and hydrology
-    time: 10:45 - 11:45
-    label: snowex
-    leads:
-    - Ibrahim Alabi
   - title: 'Tutorial: ML for Hydrological Sciences'
     description: null
     time: 10:45 - 11:45
@@ -138,6 +131,13 @@ tabs:
     description: null
     time: 10:30 - 10:45
     label: all
+  - title: 'Tutorial: Machine learning for Snow Studies'
+    description: An introduction to machine learning methods (e.g. Artificial Neural
+      Networks, XGBoost) and applications for snow and hydrology
+    time: 10:45 - 11:45
+    label: snowex
+    leads:
+    - Ibrahim Alabi
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
@@ -184,6 +184,10 @@ tabs:
     label: all
     leads:
     - Andy Barrett
+  - title: BREAK
+    description: null
+    time: 9:45 - 10:00
+    label: all
   - title: Project Wrap-up
     description: null
     time: 10:00 - 12:00
