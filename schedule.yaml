@@ -17,7 +17,7 @@ tabs:
     leads:
     - Naomi Alterman
   - title: 'Plenary: CryoCloud'
-    description: CryoCloud Initiative for open science
+    description: CryoCloud JupyterHub introduction
     time: 10:15 - 11:00
     label: all
     leads:
@@ -27,46 +27,53 @@ tabs:
     time: 11:00 - 11:15
     label: all
   - title: 'Tutorial: SnowEx Mission Overview'
-    description: All about SnowEx!
-    time: 11:15 - 12:00
+    description: All about SnowEx, 2017-2023, with some extra emphasis on Alaska.
+    time: 11:15 - 11:30
     label: snowex
     leads:
-    - HP Marshall
-  - title: 'Tutorial: ICESat-2 Mission Overview'
+    - H.P. Marshall
+  - title: 'Tutorial: ICESat-2 Mission Overview (Room 345)'
     description: All about ICESat-2 and the data products
     time: 11:15 - 12:00
     label: icesat-2
     leads:
     - Tyler Sutterley
+  - title: 'Tutorial: SnowEx Data Overview'
+    description: All about SnowEx data
+    time: 11:30 - 12:00
+    label: snowex
+    leads:
+    - Megan Mason
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
     label: all
-  - title: 'Tutorial: Cloud computing and cloud-optimized data formats'
+  - title: 'Plenary: Cloud computing and cloud-optimized data formats'
     description: ''
     time: 13:00 - 13:45
-    label: icesat-2
+    label: all
     leads:
-    - Aimeee Barciauskas
+    - Aimee Barciauskas
   - title: 'Plenary: Project Formation and Logistics'
     description: Forming projects
-    time: 14:00 - 14:45
+    time: 13:45 - 14:30
     label: all
     leads:
     - Charley Haley
   - title: PROJECT TIME
     description: null
-    time: 15:00 - 17:00
+    time: 14:30 - 17:00
     label: all
 - title: Day 2
   date: Tuesday 20 August
   contents:
   - title: 'Tutorial: Data Access'
-    description: Accessing NASA Data (especially SnowEx and ICESat-2)
+    description: Accessing NASA Data (especially SnowEx and ICESat-2); including earthaccess
     time: 9:00 - 9:45
     label: all
     leads:
     - Mikala Beig
+    - Gail Reckase
   - title: 'Tutorial: SnowEx Database'
     description: Using the SnowEx Database
     time: 9:45 - 10:30
@@ -74,7 +81,7 @@ tabs:
     leads:
     - Micah Johnson
     - Micah Sandusky
-  - title: 'Tutorial: accessing ICESat-2 data'
+  - title: 'Tutorial: accessing ICESat-2 data (Room 345)'
     description: icepyx, SlideRule
     time: 9:45 - 10:30
     label: icesat-2
@@ -84,10 +91,12 @@ tabs:
     description: null
     time: 10:30 - 10:45
     label: all
-  - title: PROJECT TIME
+  - title: 'Tutorial: ML for Hydrological Sciences'
     description: null
-    time: 10:45 - 12:40
+    time: 10:45 - 11:45
     label: all
+    leads:
+    - Savalan Naser Neisary
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
@@ -106,63 +115,50 @@ tabs:
     leads:
     - Dylan Boyd
     - Elodie Macorps
-  - title: 'Tutorial: ICESat-2 and GEDI'
+  - title: 'Tutorial: Machine learning with ICESat-2 data (Room 345)'
     description: ''
-    time: 9:00 - 9:45
+    time: 9:00 - 10:00
     label: icesat-2
     leads:
-    - Aaron Freisz
+    - Wei Ji Leong
   - title: 'Tutorial: LiDAR & GPR'
     description: LiDAR and GPR
     time: 9:45 - 10:30
     label: snowex
     leads:
     - Randall Bonnell
-  - title: 'Tutorial: Machine learning with ICESat-2 data'
-    description: ''
-    time: 9:45 - 10:30
-    label: icesat-2
-    leads:
-    - Wei Ji Leong?
-    - Ellie Abrahams?
   - title: BREAK
     description: null
     time: 10:30 - 10:45
     label: all
-  - title: 'Tutorial: Albedo AVIRIS-NG'
-    description: All about Albedo
-    time: 10:45 - 11:30
+  - title: 'Tutorial: Machine learning for Snow Studies'
+    description: An introduction to machine learning methods (e.g. Artificial Neural
+      Networks, XGBoost) and applications for snow and hydrology
+    time: 10:45 - 11:45
     label: snowex
     leads:
-    - Anton Surunis
-    - Brent Wilder
-  - title: Project Updates
-    description: null
-    time: 11:30 - 12:00
-    label: all
+    - Ibrahim Alabi
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
     label: all
+  - title: Project Updates
+    description: null
+    time: 13:00 - 13:30
+    label: all
   - title: PROJECT TIME
     description: null
-    time: 13:00 - 17:00
+    time: 13:30 - 17:00
     label: all
 - title: Day 4
   date: Thursday 22 August
   contents:
   - title: 'Plenary: From notebooks to packages'
     description: All about python packaging
-    time: 9:00 - 9:45
+    time: 9:00 - 10:30
     label: all
     leads:
     - Don Setiawan and Romina Piunno
-  - title: 'Optional: impromptu tutorials'
-    description: Things not in the original schedule worth sharing based on interest
-    time: 9:45 - 10:30
-    label: all
-    leads:
-    - Awesome People
   - title: BREAK
     description: null
     time: 10:30 - 10:45
@@ -187,7 +183,11 @@ tabs:
     time: 9:00 - 9:45
     label: all
     leads:
-    - Andy Barrett?
+    - Andy Barrett
+  - title: BREAK
+    description: null
+    time: 9:45 - 10:00
+    label: all
   - title: Project Wrap-up
     description: null
     time: 10:00 - 12:00
