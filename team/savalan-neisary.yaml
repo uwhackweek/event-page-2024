@@ -1,0 +1,30 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Savalan Neisary
+  avatar: https://avatars.githubusercontent.com/savalann
+  role: Ph.D. Student
+  organizations:
+    - name: The University of Alabama
+  pronouns: He/Him
+  bio: >
+    Savalan is a Ph.D. student in the Civil, Construction, and Environmental Engineering Department at The University of Alabama. 
+    He currently works as a graduate research assistant at the Cooperative Institute for Research to Operations in Hydrology (CIROH). 
+    His research focuses on applying Al in streamflow prediction, improving the National Water Model (NWM) predictions, evaluating hydrological droughts, and analyzing water data. 
+    His work aims to develop innovative solutions to improve water resource management and operational hydrological prediction.
+  expertise:
+    - Machine and Deep Learning
+    - Big Data Analysis
+    - Hydrological Modeling
+    - Drought Analysis
+    - Cloud computing and HPC
+    - Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/savalann
+    - icon: twitter
+      link: https://x.com/SNeisary
+    - icon: linkedin
+      link: https://www.linkedin.com/in/savalann
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Lead
