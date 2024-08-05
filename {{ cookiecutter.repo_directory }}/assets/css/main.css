@@ -12,6 +12,10 @@
     height: 100%;
 }
 
+#hero-block .hero-text-block {
+    max-width: 800px;
+}
+
 .hero-carousel .carousel-inner {
     height: 100%;
 }
