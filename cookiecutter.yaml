@@ -9,9 +9,9 @@ banner:
   location: University of Washington, Seattle, USA
 # Add a button link right under the top (e.g. JupyterBook, url can be local file or https://)
   links:
-  # - url: intro.html
-  #   title: Event Jupyter Book
-  #   new_window: false
+  - url: https://escience.notion.site/Event-Logistics-FAQs-8f71d7b47c9947bbbb111b4e8f93c5a4
+    title: Logistics
+    new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-19T09:00:00-07:00"
