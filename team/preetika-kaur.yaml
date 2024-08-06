@@ -1,0 +1,24 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Preetika Kaur
+  avatar: https://avatars.githubusercontent.com/preetika11
+  role: PhD Student
+  organizations:
+    - name: University of Wyoming
+  pronouns: She/Her
+  bio: >
+    I am a PhD student working with Dr. Ryan Webb in the Civil Engineering Department at the University of Wyoming. My research is focussed on understanding snow pack dynamics in the Jemez mountains using snow modeling. 
+  expertise:
+    - Snow Hydrology
+    - Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/preetika11
+    - icon: twitter
+      link: https://x.com/preetikakaur
+    - icon: linkedin
+      link: https://www.linkedin.com/in/preetikakaur
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
+    
