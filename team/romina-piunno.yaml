@@ -1,0 +1,25 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Romina Piunno
+  avatar: https://avatars.githubusercontent.com/romip
+  role: Tutorial Lead
+  organizations:
+    - name: University of Toronto
+  pronouns: she/her
+  bio: >
+    Romina is a PhD candidate in atmospheric physics at the University of Toronto with a
+    background in computer science and mathematics. Her research focuses on deep
+    convection in the Labrador Sea and its role in atmospheric carbon sequestration.
+    In addition to her research, Romina is actively involved in a software development
+    project that aims to simplify geophysical data access.
+  expertise:
+    - Python
+    - Matlab
+    - Atmospheric Physics
+    - Air-Sea Interactions
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/ropip
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Developer
