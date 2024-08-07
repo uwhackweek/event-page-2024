@@ -1,0 +1,26 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Susan L. Howard
+  avatar: https://avatars.githubusercontent.com/slhowardESR
+  role: Staff Scientist
+  organizations:
+    - name: Earth and Space Research
+  pronouns: she/her
+  bio: >
+    Susan is a Staff Scientist at Earth and Space Research. She studies polar oceanography and glaciology, focusing on ocean, sea ice, and ice shelf interactions, as well as tides in the polar regions. She is currently using ICESat-2, along with satellite imagery, to improve understanding of interactions between the ocean, ice shelves, mobile pack ice, landfast sea ice and icebergs on Antarctica’s continental shelf.
+  expertise:
+    - Numerical Modeling
+    - Physical Oceanography
+    - ICESat-2
+    - SlideRule for Iceberg Detection
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/slhowardESR
+    - icon: twitter
+      link: https://x.com/slhoward
+    - icon: linkedin
+      link: https://www.linkedin.com/in/susan-howard-47581a6/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project Lead
+   
