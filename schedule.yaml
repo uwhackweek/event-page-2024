@@ -5,11 +5,11 @@ tabs:
   contents:
   - title: 'Plenary: Welcome!'
     description: Welcome to the event
-    time: 9:00 - 9:30
+    time: 9:00 - 9:45
     label: all
     leads:
-    - Anthony Arendt
     - Mark Welden-Smith
+    - Charley Haley
   - title: 'Plenary: Best Practices for Collaborative Development'
     description: Effective teamwork and collaborations
     time: 9:45 - 10:15
