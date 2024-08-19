@@ -12,7 +12,7 @@ tabs:
     - Mark Welden-Smith
   - title: 'Plenary: Best Practices for Collaborative Development'
     description: Effective teamwork and collaborations
-    time: 9:30 - 10:15
+    time: 9:45 - 10:15
     label: all
     leads:
     - Naomi Alterman
@@ -32,12 +32,6 @@ tabs:
     label: snowex
     leads:
     - H.P. Marshall
-  - title: 'Tutorial: ICESat-2 Mission Overview (Room 345)'
-    description: All about ICESat-2 and the data products
-    time: 11:15 - 12:00
-    label: icesat-2
-    leads:
-    - Tyler Sutterley
   - title: 'Tutorial: SnowEx Data Overview'
     description: All about SnowEx data
     time: 11:30 - 12:00
@@ -60,6 +54,7 @@ tabs:
     label: all
     leads:
     - Charley Haley
+    - Steven Pestana
   - title: PROJECT TIME
     description: null
     time: 14:30 - 17:00
@@ -81,12 +76,6 @@ tabs:
     leads:
     - Micah Johnson
     - Micah Sandusky
-  - title: 'Tutorial: accessing ICESat-2 data (Room 345)'
-    description: icepyx, SlideRule
-    time: 9:45 - 10:30
-    label: icesat-2
-    leads:
-    - JP Swinski
   - title: BREAK
     description: null
     time: 10:30 - 10:45
@@ -101,9 +90,15 @@ tabs:
     description: null
     time: 12:00 - 13:00
     label: all
+  - title: 'Plenary: Project Guidance'
+    description: Tips for organizing and working as a project team
+    time: 13:00 - 13:15
+    label: all
+    leads:
+    - Steven Pestana
   - title: PROJECT TIME
     description: null
-    time: 13:00 - 17:00
+    time: 13:15 - 17:00
     label: all
 - title: Day 3
   date: Wednesday 21 August
@@ -184,13 +179,19 @@ tabs:
     label: all
     leads:
     - Andy Barrett
+  - title: Feedback Survey
+    description: Complete the Hackweek survey
+    time: 9:45 - 10:15
+    label: all
+    leads:
+    - Anthony and Mark
   - title: BREAK
     description: null
-    time: 9:45 - 10:00
+    time: 10:15 - 10:30
     label: all
   - title: Project Wrap-up
     description: null
-    time: 10:00 - 12:00
+    time: 10:30 - 12:00
     label: all
   - title: LUNCH
     description: null
