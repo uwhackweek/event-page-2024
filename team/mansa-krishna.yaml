@@ -1,0 +1,18 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Mansa Krishna
+  avatar: https://avatars.githubusercontent.com/mansakrishna23
+  role: Graduate Student
+  organizations:
+    - name: Dartmouth
+  bio: >
+    Currently, a PhD Candidate in the Dept. of Earth Sciences, Dartmouth. My research involves developing physics-informed neural networks for ice sheet modeling.
+  expertise:
+    - Programming (Python, MATLAB)
+    - Ice sheet modeling (ISSM)
+    - Machine learning (Tensorflow, PyTorch)
+  social:
+    - icon: github
+      link: https://github.com/mansakrishna23
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Hackweek Helper
