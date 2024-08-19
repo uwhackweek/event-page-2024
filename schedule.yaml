@@ -32,6 +32,12 @@ tabs:
     label: snowex
     leads:
     - H.P. Marshall
+  - title: 'Tutorial: ICESat-2 Mission Overview (Room 345)'
+    description: All about ICESat-2 and the data products
+    time: 11:15 - 12:00
+    label: icesat-2
+    leads:
+    - Tyler Sutterley
   - title: 'Tutorial: SnowEx Data Overview'
     description: All about SnowEx data
     time: 11:30 - 12:00
@@ -76,6 +82,12 @@ tabs:
     leads:
     - Micah Johnson
     - Micah Sandusky
+  - title: 'Tutorial: accessing ICESat-2 data (Room 345)'
+    description: icepyx, SlideRule
+    time: 9:45 - 10:30
+    label: icesat-2
+    leads:
+    - JP Swinski
   - title: BREAK
     description: null
     time: 10:30 - 10:45
@@ -162,6 +174,13 @@ tabs:
     description: null
     time: 10:45 - 11:45
     label: all
+  - title: Mental health in the geosciences
+    description: A conversation about mental health in the geosciences
+    time: 11:00 - 12:00
+    label: all
+    leads:
+    - Shashank Bhushan
+    - Anthony Arendt
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
