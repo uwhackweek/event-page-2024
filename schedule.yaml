@@ -5,14 +5,14 @@ tabs:
   contents:
   - title: 'Plenary: Welcome!'
     description: Welcome to the event
-    time: 9:00 - 9:30
+    time: 9:00 - 9:45
     label: all
     leads:
-    - Anthony Arendt
     - Mark Welden-Smith
+    - Charley Haley
   - title: 'Plenary: Best Practices for Collaborative Development'
     description: Effective teamwork and collaborations
-    time: 9:30 - 10:15
+    time: 9:45 - 10:15
     label: all
     leads:
     - Naomi Alterman
@@ -60,6 +60,7 @@ tabs:
     label: all
     leads:
     - Charley Haley
+    - Steven Pestana
   - title: PROJECT TIME
     description: null
     time: 14:30 - 17:00
@@ -96,14 +97,20 @@ tabs:
     time: 10:45 - 11:45
     label: all
     leads:
-    - Savalan Naser Neisary
+    - Savalan Neisary
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
     label: all
+  - title: 'Plenary: Project Guidance'
+    description: Tips for organizing and working as a project team
+    time: 13:00 - 13:15
+    label: all
+    leads:
+    - Steven Pestana
   - title: PROJECT TIME
     description: null
-    time: 13:00 - 17:00
+    time: 13:15 - 17:00
     label: all
 - title: Day 3
   date: Wednesday 21 August
@@ -158,7 +165,8 @@ tabs:
     time: 9:00 - 10:30
     label: all
     leads:
-    - Don Setiawan and Romina Piunno
+    - Don Setiawan 
+    - Romina Piunno
   - title: BREAK
     description: null
     time: 10:30 - 10:45
@@ -167,6 +175,13 @@ tabs:
     description: null
     time: 10:45 - 11:45
     label: all
+  - title: Mental health in the geosciences
+    description: A conversation about mental health in the geosciences
+    time: 11:00 - 12:00
+    label: all
+    leads:
+    - Shashank Bhushan
+    - Jessica Scheick
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
@@ -184,13 +199,19 @@ tabs:
     label: all
     leads:
     - Andy Barrett
+  - title: Feedback Survey
+    description: Complete the Hackweek survey
+    time: 9:45 - 10:15
+    label: all
+    leads:
+    - Mark Welden-Smith
   - title: BREAK
     description: null
-    time: 9:45 - 10:00
+    time: 10:15 - 10:30
     label: all
   - title: Project Wrap-up
     description: null
-    time: 10:00 - 12:00
+    time: 10:30 - 12:00
     label: all
   - title: LUNCH
     description: null
