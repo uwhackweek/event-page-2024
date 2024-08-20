@@ -171,13 +171,9 @@ tabs:
     description: null
     time: 10:30 - 10:45
     label: all
-  - title: Project Updates
-    description: null
-    time: 10:45 - 11:00
-    label: all
   - title: Mental health in the geosciences
     description: A conversation about mental health in the geosciences
-    time: 11:00 - 12:00
+    time: 10:45 - 11:45
     label: all
     leads:
     - Shashank Bhushan
