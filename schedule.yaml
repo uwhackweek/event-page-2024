@@ -182,13 +182,9 @@ tabs:
     description: null
     time: 12:00 - 13:00
     label: all
-  - title: Project Updates
-    description: null
-    time: 13:00 - 14:00
-    label: all
   - title: PROJECT TIME
     description: null
-    time: 14:00 - 17:00
+    time: 13:00 - 17:00
     label: all
 - title: Day 5
   date: Friday 23 August
