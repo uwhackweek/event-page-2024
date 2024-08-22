@@ -2,12 +2,14 @@
   avatar: https://avatars.githubusercontent.com/u/17802172?v=4
   role: Research Software Engineer
   organizations:
-    - name: School of Oceanography
-      url: https://www.ocean.washington.edu/home/Don_Setiawan
+    - name: Scientific Software Engineering Center
+      url: https://escience.washington.edu/software-engineering/ssec/
+    - name: eScience Institute
+      url: https://escience.washington.edu/member/don-setiawan/
     - name: University of Washington
-  bio: I am a Research Software Engineer at the University of Washington with a
+  bio: I am a Research Software Engineer at the Scientific Software Engineering Center with a
     strong focus in designing, developing, and maintaining scientific data analysis
-    systems. I am a contributor to various open source software. I learning new
+    systems. I am a contributor to various open source software. I learn new
     technologies and apply them in my work.
   expertise:
     - Geospatial Information Systems (GIS)
